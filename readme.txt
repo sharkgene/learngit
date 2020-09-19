@@ -3,4 +3,8 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 Creating a new branch is quick & simple.
+<<<<<<< HEAD
 another push
+=======
+new test
+>>>>>>> 5c1d1fc2eec40a9789900d828dfb1739f6fda536
